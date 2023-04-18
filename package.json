@@ -1,0 +1,16 @@
+{
+  "name": "day-6(npm)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm_packages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "hybrid-crypto-js": "^0.2.3"
+  }
+}
